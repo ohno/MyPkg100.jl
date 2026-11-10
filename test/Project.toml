@@ -1,0 +1,6 @@
+[deps]
+MyPkg100 = "2b8e129a-3397-4196-941c-4618a4fc9769"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1"
